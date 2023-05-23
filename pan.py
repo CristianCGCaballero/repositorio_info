@@ -1,7 +1,7 @@
-hola = print('Hola mundo')
+GitHUb = 'abc'
 
-pan = print('Me gusta el pan')
+prueba = 1 + 2
 
-pan + hola
+camion = 4 * 4
 
-bob_esponja = print('La concha de tu madre bob esponja')
+caca = 'caca'
