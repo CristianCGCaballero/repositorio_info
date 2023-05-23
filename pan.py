@@ -1,3 +1,5 @@
 hola = print('Hola mundo')
 
-hola
+pan = print('Me gusta el pan')
+
+pan + hola
