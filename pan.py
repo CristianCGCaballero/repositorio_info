@@ -4,4 +4,6 @@ prueba = 1 + 2
 
 camion = 4 * 4
 
-caca = 'caca'
+cafe = 'caliente'
+
+calambre = True

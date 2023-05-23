@@ -13,4 +13,8 @@ print('abeja')
 print('abeja')
 
 
+def camion(ruedas):
+    ruedas = 4 * ruedas
+
+
 
