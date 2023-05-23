@@ -16,5 +16,9 @@ print('abeja')
 def camion(ruedas):
     ruedas = 4 * ruedas
 
+    return True
+
+calefaccion = False
+
 
 
