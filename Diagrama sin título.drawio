@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-05-24T04:38:04.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p1-8SphOMYkGQ3DHnpr0" version="21.3.3" type="github">
+  <diagram name="Página-1" id="3zkumhR3B1266m4D6Ep6">
+    <mxGraphModel dx="880" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1aWd3Stc1IJZSH16bZWO-14" value="Colaboradores" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="330" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1aWd3Stc1IJZSH16bZWO-15" value="+ Nombre/s&lt;br&gt;+&amp;nbsp; Apellido/s&lt;br&gt;+ Teléfono&lt;br&gt;+ Email&lt;br&gt;+ Contraseña&lt;br&gt;+ Estado&lt;br&gt;+ Fecha de registro&lt;br&gt;+ Artículos escritos" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=1;rotatable=1;part=1;html=1;movable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1aWd3Stc1IJZSH16bZWO-14">
+          <mxGeometry y="50" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1aWd3Stc1IJZSH16bZWO-24" value="Articulos" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="330" width="160" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1aWd3Stc1IJZSH16bZWO-25" value="+ Titulo&lt;br&gt;+ Resumen&lt;br&gt;+&amp;nbsp;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="1aWd3Stc1IJZSH16bZWO-24">
+          <mxGeometry y="50" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
